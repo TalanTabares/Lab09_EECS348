@@ -5,9 +5,11 @@ Date: 4/8/2025
 Description: Program similar to Lab 08 where an input file reads in a matrix and performs various operations. This program can handle integer and float values.
 
 Inputs:
- - lab09_test_file.txt
+ - lab09_test_file.txt (Generic name, but the test file is a user specified file)
 
 Outputs:
- - 
+ - Mat1
+ - Mat2
+*/
 
 */
